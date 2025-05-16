@@ -12,7 +12,7 @@
 3. 安装 Tesseract OCR
 * macOS: ```brew install tesseract```
 * Ubuntu: ```sudo apt install tesseract-ocr ```
-* dows: 下载 https://github.com/tesseract-ocr/tesseract 并配置环境变量
+* windows: 下载 https://github.com/tesseract-ocr/tesseract 并配置环境变量
 4. 创建 .env 文件，加入你的 OpenAI API 密钥
 OPENAI_API_KEY=你的OpenAI密钥
 5.	运行后端
